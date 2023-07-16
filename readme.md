@@ -1,1 +1,1 @@
-Clone the project and open index.html to run.
+This is Stegnography of data into an image i.e hidding data into an file.
